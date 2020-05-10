@@ -296,5 +296,3 @@ The resulting 69 variables are described below:
 69 fbodybodygyrojerkmag standard deviation num 
   Average standard deviation of frequency-domain angular velocity jerk signal magnitude
     [-1,1]
-```
-
